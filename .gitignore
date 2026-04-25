@@ -1,0 +1,7 @@
+node_modules/
+*.db
+middleware/data/
+.env
+.DS_Store
+.aem-cli/
+.cache/
